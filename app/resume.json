@@ -40,9 +40,22 @@
       "endDate": "2015",
       "summary": "",
       "highlights": [
-        "Performed O&M (Operations and Maintenance) on fastest national data/voice 4G LTE wireless network ",
+        "Performed O&M (Operations and Maintenance) on fastest national data/voice 4G LTE wireless network",
         "Engaged in 4G/LTE network deployment with 96% customer coverage achieved in 16 months",
         "Recruited as one of first members of new Network Optimization Team by Director of Operations "
+      ]
+    },
+    {
+      "company": "Verizon Wireless",
+      "position": "NOC Engineer II",
+      "website": "http://www.verizon.com",
+      "startDate": "2005",
+      "endDate": "2007",
+      "summary": "",
+      "highlights": [
+        "Monitored and upgraded nation’s largest data/voice wireless network, including SS7 and backhaul",
+        "Repaired and coordinated remote dispatch of field and switch assets in response to network distress conditions",
+        "Trained as one of select few technicians versed in all platforms, including: Nortel, Lucent, Ericsson, Alcatel, Fujitsu"
       ]
     }
   ],
