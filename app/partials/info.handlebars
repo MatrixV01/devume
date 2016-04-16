@@ -1,8 +1,19 @@
  <section class="info-wrap">
   <div class="info-name">
     <h1>{{basics.name}}</h1>
+    <span>{{basics.label}}</span>
   </div>
   <div class="info-meta">
+    <div class="website">
+      {{#each basics.website}}
+        <a title="{{this.site}}" target="_blank" href="{{this.url}}">{{this.site}}</a>
+      {{/each}}
+    </div>
+    <div class="email">
+      {{#each basics.email}}
+        <a title="{{this.address}}" target="_blank" href="{{this.url}}">{{this.address}}</a>
+      {{/each}}
+    </div>
     <div class="location">
       <span class="contact">{{basics.phone}}</span>
       <span class="region">{{basics.location.city}}, {{basics.location.region}}</span>

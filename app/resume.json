@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Brad Fincher",
+    "label": "Software Engineer",
+    "picture": "http://i.imgur.com/8mkgLzc.jpg?1",
+    "email": [
+      {
+        "address": "bradfincher@gmail.com",
+        "url": "mailto:bradfincher@gmail.com"
+      }
+    ],
+    "phone": "(214) 288-4140",
+    "summary": "Brad is a full stack software engineer with an eye for front end design and development",
+    "location": {
+      "city": "Dallas",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/bradfincher"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/matrixv01"
+      },
+      {
+        "network": "Website",
+        "url": "http://bradfincher.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "T-Mobile",
+      "position": "NOC Engineer II",
+      "website": "http://www.t-mobile.com",
+      "startDate": "2007",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": [
+        "Performed O&M (Operations and Maintenance) on fastest national data/voice 4G LTE wireless network ",
+        "Engaged in 4G/LTE network deployment with 96% customer coverage achieved in 16 months",
+        "Recruited as one of first members of new Network Optimization Team by Director of Operations "
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "RNTR",
+      "url": "http://rntr.herokuapp.com/",
+      "summary": "List, find, and rent everyday items from local users | TL;DR -Airbnb for stuff",
+      "highlights": [
+        "Implemented ReactJS components and routing for new listings and location-based search with Webpack",
+        "Created custom ReactJS UI using MaterializeCSS and AnimateCSS connected to PostgreSQL and ExpressJS",
+        "Utilized ES6 syntax through BabelJS via CommonJS methods for module management",
+        "Built out RESTful API HTTP requests for serving listed items, searched items, and listing new items"
+      ]
+    },
+    {
+      "name": "CinemaPlate",
+      "url": "http://cinemaplate.herokuapp.com/",
+      "summary": "  Provides Netflix and food delivery pairing recommendations",
+      "highlights": [
+        "Created user profile page with editable email and password fields using HTML, CSS, AngularJS, ExpressJS",
+        "Embedded movie trailer selection using HTML, CSS, custom AngularJS directives and TMDB API",
+        "Reconfigured legacy code back end API query for video information using BluebirdJS"
+      ]
+    },
+    {
+      "name": "I Like This",
+      "url": "https://ilikethis.herokuapp.com/",
+      "summary": "Delivers targeted, cross-media recommendations for books, movies, and video games",
+      "highlights": [
+        "Architected and built all front end pages and navigation with HTML, CSS, AngularJS",
+        "Integrated AngularJS views to update PostgreSQL database title entries and associated tags",
+        "Managed parsing and displaying of data from three different APIs through SQL server"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "MakerSquare",
+      "area": "Advanced Softare Engineering Immersive",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Dallas Baptist University",
+      "area": "MIS",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "2011"
+    }
+
+  ],
+  "skills": [
+    {
+      "level": "Strong",
+      "keywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "ES6",
+        "AngularJS",
+        "ReactJS",
+        "UnderscoreJS",
+        "jQuery",
+        "Git/Github"
+      ]
+    },
+    {
+      "level": "Experienced",
+      "keywords": [
+        "NodeJS",
+        "Bootstrap",
+        "ExpressJS",
+        "BackboneJS",
+        "PostgreSQL",
+        "NPM",
+        "MongoDB",
+        "SQLite3",
+        "RESTful API",
+        "D3JS",
+        "Heroku",
+        "Grunt",
+        "Gulp",
+        "Agile/Scrum",
+        "CommonJS/RequireJS",
+        "OOP",
+        "Functional Programming",
+        "SASS/LESS",
+        "Webpack",
+        "MaterializeCSS",
+        "AnimateCSS",
+        "BabelJS",
+        "Redux",
+        "Bower",
+        "Waffle/Kanban",
+        "Foundation",
+        "Photoshop",
+        "Illustrator"
+      ]
+    }
+  ]
+}
